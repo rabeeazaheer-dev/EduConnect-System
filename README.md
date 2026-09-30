@@ -29,4 +29,4 @@ A robust, Desktop-based School Management System developed using **C# .NET** and
 ### Installation & Run
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/rabeeazaheer-dev/EduConnect-System.git](https://github.com/rabeeazaheer-dev/EduConnect-System.git)# EduConnect-System
+   git clone [https://github.com/rabeeazaheer-dev/EduConnect-System.git]# EduConnect-System
